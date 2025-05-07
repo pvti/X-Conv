@@ -1,4 +1,4 @@
-# X-Conv
+# [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) X-Conv
 
 This repository gathers research papers focused on operation-level advancements in convolution. While some papers may also explore backbone design, broader architectural trends, or the connections between CNNs and Transformers, the primary focus remains on the convolution operator itself. The scope is centered on the following key areas:
 
