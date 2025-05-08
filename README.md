@@ -10,6 +10,7 @@ Feel free to suggest additional papers or categories via pull requests or issues
 
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [RefConv: Reparameterized Refocusing Convolution for Powerful ConvNets](https://openreview.net/forum?id=You77eOFDv)| TNNLS | 2025 |
 | [Enhancing geometric modeling in convolutional neural networks: limit deformable convolution](https://link.springer.com/article/10.1007/s40747-025-01799-8) [![GitHub Repo stars](https://img.shields.io/github/stars/1977245719/LDCN)](https://github.com/1977245719/LDCN)| Complex & Intelligent Systems | 2025 |
 | [LSNet: See Large, Focus Small](https://arxiv.org/abs/2503.23135) [![GitHub Repo stars](https://img.shields.io/github/stars/THU-MIG/lsnet)](https://github.com/THU-MIG/lsnet)| CVPR | 2025 |
 | [Small Convolutional Kernel with Large Kernel Effect](https://arxiv.org/abs/2401.12736) [![GitHub Repo stars](https://img.shields.io/github/stars/lidc54/shift-wiseConv)](https://github.com/lidc54/shift-wiseConv)| CVPR | 2025 |
