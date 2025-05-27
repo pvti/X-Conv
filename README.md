@@ -10,6 +10,8 @@ Feel free to suggest additional papers or categories via pull requests or issues
 
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Feature Diversity Learning for a Compact CNN Module](https://ieeexplore.ieee.org/document/11010101)| TETCI | 2025 |
+| [Compact CNN module balancing between feature diversity and redundancy](https://doi.org/10.1016/j.neunet.2025.107456)| Neural Networks | 2025 |
 | [Rejuvenating efficient convolutional neural networks](https://link.springer.com/article/10.1007/s11554-025-01696-w)| Journal of Real-Time Image Processing | 2025 |
 | [RefConv: Reparameterized Refocusing Convolution for Powerful ConvNets](https://openreview.net/forum?id=You77eOFDv)| TNNLS | 2025 |
 | [Enhancing geometric modeling in convolutional neural networks: limit deformable convolution](https://link.springer.com/article/10.1007/s40747-025-01799-8) [![GitHub Repo stars](https://img.shields.io/github/stars/1977245719/LDCN)](https://github.com/1977245719/LDCN)| Complex & Intelligent Systems | 2025 |
