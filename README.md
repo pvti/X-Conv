@@ -10,6 +10,7 @@ Feel free to suggest additional papers or categories via pull requests or issues
 
 | Title                                                        | Venue      | Year |
 | ------------------------------------------------------------ | ---------- | ---- |
+| [Region-Aware Deformable Convolutions](https://arxiv.org/abs/2509.15436)| Arxiv | 2025 |
 | [Mobile U-ViT: Revisiting large kernel and U-shaped ViT for efficient medical image segmentation](https://www.arxiv.org/abs/2508.01064) [![GitHub Repo stars](https://img.shields.io/github/stars/FengheTan9/Mobile-U-ViT)](https://github.com/FengheTan9/Mobile-U-ViT)| ACM MM | 2025 |
 | [DDConv: Dynamic Dilated Convolution](https://ieeexplore.ieee.org/document/11103506)| TAI | 2025 |
 | [Feature Diversity Learning for a Compact CNN Module](https://ieeexplore.ieee.org/document/11010101)| TETCI | 2025 |
